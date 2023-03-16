@@ -40,4 +40,4 @@ position = Vector2( 531, 377 )
 position = Vector2( 434, 398 )
 
 [node name="Detector" parent="." instance=ExtResource( 3 )]
-position = Vector2( 471, 153 )
+position = Vector2( 373, 147 )

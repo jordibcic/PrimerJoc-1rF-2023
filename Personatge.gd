@@ -8,6 +8,7 @@ var salt := 400
 
 func _ready():
 	pass
+	# De moment no ens cal fer res
 
 
 func _process(delta):
